@@ -20,5 +20,6 @@ public class Main {
         System.out.println("Total antes do desconto: R$ " + total);
         System.out.println("Desconto (10%): R$ " + desconto);
         System.out.println("Total com desconto: R$ " + totalComDesconto);
+        System.out.println("teste");
     }
 }
